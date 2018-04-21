@@ -1,0 +1,192 @@
+-- Merging decision tree log ---
+manifest
+ADDED from J:\Android-Open-SDK-master\StreamaxiaOpenSDKDemo\appdemo\src\main\AndroidManifest.xml:2:1-31:12
+INJECTED from J:\Android-Open-SDK-master\StreamaxiaOpenSDKDemo\appdemo\src\main\AndroidManifest.xml:2:1-31:12
+INJECTED from J:\Android-Open-SDK-master\StreamaxiaOpenSDKDemo\appdemo\src\main\AndroidManifest.xml:2:1-31:12
+INJECTED from J:\Android-Open-SDK-master\StreamaxiaOpenSDKDemo\appdemo\src\main\AndroidManifest.xml:2:1-31:12
+MERGED from [com.karumi:dexter:2.3.1] C:\Users\TEMP\.gradle\caches\transforms-1\files-1.1\dexter-2.3.1.aar\603eb59723265353c27f9b1752646fed\AndroidManifest.xml:17:1-33:12
+MERGED from [com.android.support:design:23.2.1] C:\Users\TEMP\.gradle\caches\transforms-1\files-1.1\design-23.2.1.aar\b0df7b7213ead241d6af94a809a9dfdd\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:appcompat-v7:25.1.0] C:\Users\TEMP\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.1.0.aar\30f425b6d03f5d97931403057f2b9749\AndroidManifest.xml:17:1-27:12
+MERGED from [com.jakewharton:butterknife:8.5.1] C:\Users\TEMP\.gradle\caches\transforms-1\files-1.1\butterknife-8.5.1.aar\293b22fcfb0c78782d0697e38d8f4ee1\AndroidManifest.xml:2:1-7:12
+MERGED from [:streamaxia-opensdk] C:\Users\TEMP\.gradle\caches\transforms-1\files-1.1\streamaxia-opensdk.aar\958cc64d4c5cb97aab2583b3d52e0235\AndroidManifest.xml:2:1-28:12
+MERGED from [com.android.support:multidex:1.0.2] C:\Users\TEMP\.gradle\caches\transforms-1\files-1.1\multidex-1.0.2.aar\7688db054d656fdcad7ddf38295364f0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:25.1.0] C:\Users\TEMP\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.1.0.aar\47d9a29fadddfa46121da401441ddba1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:support-vector-drawable:25.1.0] C:\Users\TEMP\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.1.0.aar\e630d70e8ad0c54db0359d6f88a8ad31\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:recyclerview-v7:23.2.1] C:\Users\TEMP\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-23.2.1.aar\fbd282ca76549eee18fec704f78dc98d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-v4:25.1.0] C:\Users\TEMP\.gradle\caches\transforms-1\files-1.1\support-v4-25.1.0.aar\b165fef5e1d19cd03944734e1a47e53c\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-fragment:25.1.0] C:\Users\TEMP\.gradle\caches\transforms-1\files-1.1\support-fragment-25.1.0.aar\f7455058ce43da604c187f252eee2fc4\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-media-compat:25.1.0] C:\Users\TEMP\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.1.0.aar\c0f6d1a0144733736d53189ea7c220b2\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-core-utils:25.1.0] C:\Users\TEMP\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.1.0.aar\d1cadeb47ab163eaa7ea239ad67ca041\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-core-ui:25.1.0] C:\Users\TEMP\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.1.0.aar\0dbc7057234f6c15461393ddd1168ed5\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-compat:25.1.0] C:\Users\TEMP\.gradle\caches\transforms-1\files-1.1\support-compat-25.1.0.aar\52466e05c36af36478739b1ea9a77361\AndroidManifest.xml:17:1-27:12
+INJECTED from J:\Android-Open-SDK-master\StreamaxiaOpenSDKDemo\appdemo\src\main\AndroidManifest.xml:2:1-31:12
+INJECTED from J:\Android-Open-SDK-master\StreamaxiaOpenSDKDemo\appdemo\src\main\AndroidManifest.xml:2:1-31:12
+INJECTED from J:\Android-Open-SDK-master\StreamaxiaOpenSDKDemo\appdemo\src\main\AndroidManifest.xml:2:1-31:12
+	package
+		ADDED from J:\Android-Open-SDK-master\StreamaxiaOpenSDKDemo\appdemo\src\main\AndroidManifest.xml:3:11-47
+		INJECTED from J:\Android-Open-SDK-master\StreamaxiaOpenSDKDemo\appdemo\src\main\AndroidManifest.xml
+		INJECTED from J:\Android-Open-SDK-master\StreamaxiaOpenSDKDemo\appdemo\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from J:\Android-Open-SDK-master\StreamaxiaOpenSDKDemo\appdemo\src\main\AndroidManifest.xml
+		ADDED from J:\Android-Open-SDK-master\StreamaxiaOpenSDKDemo\appdemo\src\main\AndroidManifest.xml:2:1-31:12
+		INJECTED from J:\Android-Open-SDK-master\StreamaxiaOpenSDKDemo\appdemo\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from J:\Android-Open-SDK-master\StreamaxiaOpenSDKDemo\appdemo\src\main\AndroidManifest.xml
+		ADDED from J:\Android-Open-SDK-master\StreamaxiaOpenSDKDemo\appdemo\src\main\AndroidManifest.xml:2:1-31:12
+		INJECTED from J:\Android-Open-SDK-master\StreamaxiaOpenSDKDemo\appdemo\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from J:\Android-Open-SDK-master\StreamaxiaOpenSDKDemo\appdemo\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from J:\Android-Open-SDK-master\StreamaxiaOpenSDKDemo\appdemo\src\main\AndroidManifest.xml:5:5-66
+MERGED from [:streamaxia-opensdk] C:\Users\TEMP\.gradle\caches\transforms-1\files-1.1\streamaxia-opensdk.aar\958cc64d4c5cb97aab2583b3d52e0235\AndroidManifest.xml:11:5-67
+MERGED from [:streamaxia-opensdk] C:\Users\TEMP\.gradle\caches\transforms-1\files-1.1\streamaxia-opensdk.aar\958cc64d4c5cb97aab2583b3d52e0235\AndroidManifest.xml:11:5-67
+	android:name
+		ADDED from J:\Android-Open-SDK-master\StreamaxiaOpenSDKDemo\appdemo\src\main\AndroidManifest.xml:5:22-64
+uses-permission#android.permission.CAMERA
+ADDED from J:\Android-Open-SDK-master\StreamaxiaOpenSDKDemo\appdemo\src\main\AndroidManifest.xml:6:5-64
+MERGED from [:streamaxia-opensdk] C:\Users\TEMP\.gradle\caches\transforms-1\files-1.1\streamaxia-opensdk.aar\958cc64d4c5cb97aab2583b3d52e0235\AndroidManifest.xml:12:5-65
+MERGED from [:streamaxia-opensdk] C:\Users\TEMP\.gradle\caches\transforms-1\files-1.1\streamaxia-opensdk.aar\958cc64d4c5cb97aab2583b3d52e0235\AndroidManifest.xml:12:5-65
+	android:name
+		ADDED from J:\Android-Open-SDK-master\StreamaxiaOpenSDKDemo\appdemo\src\main\AndroidManifest.xml:6:22-62
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from J:\Android-Open-SDK-master\StreamaxiaOpenSDKDemo\appdemo\src\main\AndroidManifest.xml:7:5-70
+MERGED from [:streamaxia-opensdk] C:\Users\TEMP\.gradle\caches\transforms-1\files-1.1\streamaxia-opensdk.aar\958cc64d4c5cb97aab2583b3d52e0235\AndroidManifest.xml:13:5-71
+MERGED from [:streamaxia-opensdk] C:\Users\TEMP\.gradle\caches\transforms-1\files-1.1\streamaxia-opensdk.aar\958cc64d4c5cb97aab2583b3d52e0235\AndroidManifest.xml:13:5-71
+	android:name
+		ADDED from J:\Android-Open-SDK-master\StreamaxiaOpenSDKDemo\appdemo\src\main\AndroidManifest.xml:7:22-68
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from J:\Android-Open-SDK-master\StreamaxiaOpenSDKDemo\appdemo\src\main\AndroidManifest.xml:8:5-80
+	android:name
+		ADDED from J:\Android-Open-SDK-master\StreamaxiaOpenSDKDemo\appdemo\src\main\AndroidManifest.xml:8:22-77
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from J:\Android-Open-SDK-master\StreamaxiaOpenSDKDemo\appdemo\src\main\AndroidManifest.xml:9:5-81
+MERGED from [:streamaxia-opensdk] C:\Users\TEMP\.gradle\caches\transforms-1\files-1.1\streamaxia-opensdk.aar\958cc64d4c5cb97aab2583b3d52e0235\AndroidManifest.xml:14:5-81
+MERGED from [:streamaxia-opensdk] C:\Users\TEMP\.gradle\caches\transforms-1\files-1.1\streamaxia-opensdk.aar\958cc64d4c5cb97aab2583b3d52e0235\AndroidManifest.xml:14:5-81
+	android:name
+		ADDED from J:\Android-Open-SDK-master\StreamaxiaOpenSDKDemo\appdemo\src\main\AndroidManifest.xml:9:22-78
+uses-permission#android.permission.FLASHLIGHT
+ADDED from J:\Android-Open-SDK-master\StreamaxiaOpenSDKDemo\appdemo\src\main\AndroidManifest.xml:10:5-69
+MERGED from [:streamaxia-opensdk] C:\Users\TEMP\.gradle\caches\transforms-1\files-1.1\streamaxia-opensdk.aar\958cc64d4c5cb97aab2583b3d52e0235\AndroidManifest.xml:15:5-69
+MERGED from [:streamaxia-opensdk] C:\Users\TEMP\.gradle\caches\transforms-1\files-1.1\streamaxia-opensdk.aar\958cc64d4c5cb97aab2583b3d52e0235\AndroidManifest.xml:15:5-69
+	android:name
+		ADDED from J:\Android-Open-SDK-master\StreamaxiaOpenSDKDemo\appdemo\src\main\AndroidManifest.xml:10:22-66
+uses-feature#android.hardware.camera.autofocus
+ADDED from J:\Android-Open-SDK-master\StreamaxiaOpenSDKDemo\appdemo\src\main\AndroidManifest.xml:12:5-70
+MERGED from [:streamaxia-opensdk] C:\Users\TEMP\.gradle\caches\transforms-1\files-1.1\streamaxia-opensdk.aar\958cc64d4c5cb97aab2583b3d52e0235\AndroidManifest.xml:17:5-70
+MERGED from [:streamaxia-opensdk] C:\Users\TEMP\.gradle\caches\transforms-1\files-1.1\streamaxia-opensdk.aar\958cc64d4c5cb97aab2583b3d52e0235\AndroidManifest.xml:17:5-70
+	android:name
+		ADDED from J:\Android-Open-SDK-master\StreamaxiaOpenSDKDemo\appdemo\src\main\AndroidManifest.xml:12:19-67
+application
+ADDED from J:\Android-Open-SDK-master\StreamaxiaOpenSDKDemo\appdemo\src\main\AndroidManifest.xml:14:5-29:19
+MERGED from [com.karumi:dexter:2.3.1] C:\Users\TEMP\.gradle\caches\transforms-1\files-1.1\dexter-2.3.1.aar\603eb59723265353c27f9b1752646fed\AndroidManifest.xml:26:5-31:19
+MERGED from [com.karumi:dexter:2.3.1] C:\Users\TEMP\.gradle\caches\transforms-1\files-1.1\dexter-2.3.1.aar\603eb59723265353c27f9b1752646fed\AndroidManifest.xml:26:5-31:19
+MERGED from [com.android.support:design:23.2.1] C:\Users\TEMP\.gradle\caches\transforms-1\files-1.1\design-23.2.1.aar\b0df7b7213ead241d6af94a809a9dfdd\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:23.2.1] C:\Users\TEMP\.gradle\caches\transforms-1\files-1.1\design-23.2.1.aar\b0df7b7213ead241d6af94a809a9dfdd\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:25.1.0] C:\Users\TEMP\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.1.0.aar\30f425b6d03f5d97931403057f2b9749\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:appcompat-v7:25.1.0] C:\Users\TEMP\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.1.0.aar\30f425b6d03f5d97931403057f2b9749\AndroidManifest.xml:25:5-20
+MERGED from [:streamaxia-opensdk] C:\Users\TEMP\.gradle\caches\transforms-1\files-1.1\streamaxia-opensdk.aar\958cc64d4c5cb97aab2583b3d52e0235\AndroidManifest.xml:22:5-26:19
+MERGED from [:streamaxia-opensdk] C:\Users\TEMP\.gradle\caches\transforms-1\files-1.1\streamaxia-opensdk.aar\958cc64d4c5cb97aab2583b3d52e0235\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:animated-vector-drawable:25.1.0] C:\Users\TEMP\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.1.0.aar\47d9a29fadddfa46121da401441ddba1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.1.0] C:\Users\TEMP\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.1.0.aar\47d9a29fadddfa46121da401441ddba1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:25.1.0] C:\Users\TEMP\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.1.0.aar\e630d70e8ad0c54db0359d6f88a8ad31\AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-vector-drawable:25.1.0] C:\Users\TEMP\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.1.0.aar\e630d70e8ad0c54db0359d6f88a8ad31\AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-v4:25.1.0] C:\Users\TEMP\.gradle\caches\transforms-1\files-1.1\support-v4-25.1.0.aar\b165fef5e1d19cd03944734e1a47e53c\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:25.1.0] C:\Users\TEMP\.gradle\caches\transforms-1\files-1.1\support-v4-25.1.0.aar\b165fef5e1d19cd03944734e1a47e53c\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.1.0] C:\Users\TEMP\.gradle\caches\transforms-1\files-1.1\support-fragment-25.1.0.aar\f7455058ce43da604c187f252eee2fc4\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.1.0] C:\Users\TEMP\.gradle\caches\transforms-1\files-1.1\support-fragment-25.1.0.aar\f7455058ce43da604c187f252eee2fc4\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.1.0] C:\Users\TEMP\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.1.0.aar\c0f6d1a0144733736d53189ea7c220b2\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.1.0] C:\Users\TEMP\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.1.0.aar\c0f6d1a0144733736d53189ea7c220b2\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.1.0] C:\Users\TEMP\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.1.0.aar\d1cadeb47ab163eaa7ea239ad67ca041\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.1.0] C:\Users\TEMP\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.1.0.aar\d1cadeb47ab163eaa7ea239ad67ca041\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.1.0] C:\Users\TEMP\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.1.0.aar\0dbc7057234f6c15461393ddd1168ed5\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.1.0] C:\Users\TEMP\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.1.0.aar\0dbc7057234f6c15461393ddd1168ed5\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.1.0] C:\Users\TEMP\.gradle\caches\transforms-1\files-1.1\support-compat-25.1.0.aar\52466e05c36af36478739b1ea9a77361\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.1.0] C:\Users\TEMP\.gradle\caches\transforms-1\files-1.1\support-compat-25.1.0.aar\52466e05c36af36478739b1ea9a77361\AndroidManifest.xml:25:5-20
+	android:supportsRtl
+		ADDED from J:\Android-Open-SDK-master\StreamaxiaOpenSDKDemo\appdemo\src\main\AndroidManifest.xml:18:9-35
+	android:label
+		ADDED from J:\Android-Open-SDK-master\StreamaxiaOpenSDKDemo\appdemo\src\main\AndroidManifest.xml:17:9-41
+	android:icon
+		ADDED from J:\Android-Open-SDK-master\StreamaxiaOpenSDKDemo\appdemo\src\main\AndroidManifest.xml:16:9-43
+	android:allowBackup
+		ADDED from J:\Android-Open-SDK-master\StreamaxiaOpenSDKDemo\appdemo\src\main\AndroidManifest.xml:15:9-35
+	android:theme
+		ADDED from J:\Android-Open-SDK-master\StreamaxiaOpenSDKDemo\appdemo\src\main\AndroidManifest.xml:19:9-40
+activity#com.streamaxia.opensdkdemo.SplashscreenActivity
+ADDED from J:\Android-Open-SDK-master\StreamaxiaOpenSDKDemo\appdemo\src\main\AndroidManifest.xml:20:9-26:20
+	android:name
+		ADDED from J:\Android-Open-SDK-master\StreamaxiaOpenSDKDemo\appdemo\src\main\AndroidManifest.xml:20:19-81
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from J:\Android-Open-SDK-master\StreamaxiaOpenSDKDemo\appdemo\src\main\AndroidManifest.xml:21:13-25:29
+action#android.intent.action.MAIN
+ADDED from J:\Android-Open-SDK-master\StreamaxiaOpenSDKDemo\appdemo\src\main\AndroidManifest.xml:22:17-68
+	android:name
+		ADDED from J:\Android-Open-SDK-master\StreamaxiaOpenSDKDemo\appdemo\src\main\AndroidManifest.xml:22:25-66
+category#android.intent.category.LAUNCHER
+ADDED from J:\Android-Open-SDK-master\StreamaxiaOpenSDKDemo\appdemo\src\main\AndroidManifest.xml:24:17-76
+	android:name
+		ADDED from J:\Android-Open-SDK-master\StreamaxiaOpenSDKDemo\appdemo\src\main\AndroidManifest.xml:24:27-74
+activity#com.streamaxia.opensdkdemo.StreamActivity
+ADDED from J:\Android-Open-SDK-master\StreamaxiaOpenSDKDemo\appdemo\src\main\AndroidManifest.xml:27:9-28:20
+	android:name
+		ADDED from J:\Android-Open-SDK-master\StreamaxiaOpenSDKDemo\appdemo\src\main\AndroidManifest.xml:27:19-75
+uses-sdk
+INJECTED from J:\Android-Open-SDK-master\StreamaxiaOpenSDKDemo\appdemo\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from J:\Android-Open-SDK-master\StreamaxiaOpenSDKDemo\appdemo\src\main\AndroidManifest.xml
+INJECTED from J:\Android-Open-SDK-master\StreamaxiaOpenSDKDemo\appdemo\src\main\AndroidManifest.xml
+MERGED from [com.karumi:dexter:2.3.1] C:\Users\TEMP\.gradle\caches\transforms-1\files-1.1\dexter-2.3.1.aar\603eb59723265353c27f9b1752646fed\AndroidManifest.xml:22:5-24:41
+MERGED from [com.karumi:dexter:2.3.1] C:\Users\TEMP\.gradle\caches\transforms-1\files-1.1\dexter-2.3.1.aar\603eb59723265353c27f9b1752646fed\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:design:23.2.1] C:\Users\TEMP\.gradle\caches\transforms-1\files-1.1\design-23.2.1.aar\b0df7b7213ead241d6af94a809a9dfdd\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:design:23.2.1] C:\Users\TEMP\.gradle\caches\transforms-1\files-1.1\design-23.2.1.aar\b0df7b7213ead241d6af94a809a9dfdd\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:25.1.0] C:\Users\TEMP\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.1.0.aar\30f425b6d03f5d97931403057f2b9749\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:25.1.0] C:\Users\TEMP\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.1.0.aar\30f425b6d03f5d97931403057f2b9749\AndroidManifest.xml:21:5-23:78
+MERGED from [com.jakewharton:butterknife:8.5.1] C:\Users\TEMP\.gradle\caches\transforms-1\files-1.1\butterknife-8.5.1.aar\293b22fcfb0c78782d0697e38d8f4ee1\AndroidManifest.xml:5:5-43
+MERGED from [com.jakewharton:butterknife:8.5.1] C:\Users\TEMP\.gradle\caches\transforms-1\files-1.1\butterknife-8.5.1.aar\293b22fcfb0c78782d0697e38d8f4ee1\AndroidManifest.xml:5:5-43
+MERGED from [:streamaxia-opensdk] C:\Users\TEMP\.gradle\caches\transforms-1\files-1.1\streamaxia-opensdk.aar\958cc64d4c5cb97aab2583b3d52e0235\AndroidManifest.xml:7:5-9:41
+MERGED from [:streamaxia-opensdk] C:\Users\TEMP\.gradle\caches\transforms-1\files-1.1\streamaxia-opensdk.aar\958cc64d4c5cb97aab2583b3d52e0235\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:multidex:1.0.2] C:\Users\TEMP\.gradle\caches\transforms-1\files-1.1\multidex-1.0.2.aar\7688db054d656fdcad7ddf38295364f0\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:multidex:1.0.2] C:\Users\TEMP\.gradle\caches\transforms-1\files-1.1\multidex-1.0.2.aar\7688db054d656fdcad7ddf38295364f0\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:animated-vector-drawable:25.1.0] C:\Users\TEMP\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.1.0.aar\47d9a29fadddfa46121da401441ddba1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:25.1.0] C:\Users\TEMP\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.1.0.aar\47d9a29fadddfa46121da401441ddba1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.1.0] C:\Users\TEMP\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.1.0.aar\e630d70e8ad0c54db0359d6f88a8ad31\AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-vector-drawable:25.1.0] C:\Users\TEMP\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.1.0.aar\e630d70e8ad0c54db0359d6f88a8ad31\AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:recyclerview-v7:23.2.1] C:\Users\TEMP\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-23.2.1.aar\fbd282ca76549eee18fec704f78dc98d\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:23.2.1] C:\Users\TEMP\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-23.2.1.aar\fbd282ca76549eee18fec704f78dc98d\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:25.1.0] C:\Users\TEMP\.gradle\caches\transforms-1\files-1.1\support-v4-25.1.0.aar\b165fef5e1d19cd03944734e1a47e53c\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:25.1.0] C:\Users\TEMP\.gradle\caches\transforms-1\files-1.1\support-v4-25.1.0.aar\b165fef5e1d19cd03944734e1a47e53c\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.1.0] C:\Users\TEMP\.gradle\caches\transforms-1\files-1.1\support-fragment-25.1.0.aar\f7455058ce43da604c187f252eee2fc4\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:25.1.0] C:\Users\TEMP\.gradle\caches\transforms-1\files-1.1\support-fragment-25.1.0.aar\f7455058ce43da604c187f252eee2fc4\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.1.0] C:\Users\TEMP\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.1.0.aar\c0f6d1a0144733736d53189ea7c220b2\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:25.1.0] C:\Users\TEMP\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.1.0.aar\c0f6d1a0144733736d53189ea7c220b2\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:25.1.0] C:\Users\TEMP\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.1.0.aar\d1cadeb47ab163eaa7ea239ad67ca041\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:25.1.0] C:\Users\TEMP\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.1.0.aar\d1cadeb47ab163eaa7ea239ad67ca041\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:25.1.0] C:\Users\TEMP\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.1.0.aar\0dbc7057234f6c15461393ddd1168ed5\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:25.1.0] C:\Users\TEMP\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.1.0.aar\0dbc7057234f6c15461393ddd1168ed5\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.1.0] C:\Users\TEMP\.gradle\caches\transforms-1\files-1.1\support-compat-25.1.0.aar\52466e05c36af36478739b1ea9a77361\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.1.0] C:\Users\TEMP\.gradle\caches\transforms-1\files-1.1\support-compat-25.1.0.aar\52466e05c36af36478739b1ea9a77361\AndroidManifest.xml:21:5-23:58
+INJECTED from J:\Android-Open-SDK-master\StreamaxiaOpenSDKDemo\appdemo\src\main\AndroidManifest.xml
+INJECTED from J:\Android-Open-SDK-master\StreamaxiaOpenSDKDemo\appdemo\src\main\AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:25.1.0] C:\Users\TEMP\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.1.0.aar\30f425b6d03f5d97931403057f2b9749\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from J:\Android-Open-SDK-master\StreamaxiaOpenSDKDemo\appdemo\src\main\AndroidManifest.xml
+		ADDED from J:\Android-Open-SDK-master\StreamaxiaOpenSDKDemo\appdemo\src\main\AndroidManifest.xml
+		INJECTED from J:\Android-Open-SDK-master\StreamaxiaOpenSDKDemo\appdemo\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from J:\Android-Open-SDK-master\StreamaxiaOpenSDKDemo\appdemo\src\main\AndroidManifest.xml
+		ADDED from J:\Android-Open-SDK-master\StreamaxiaOpenSDKDemo\appdemo\src\main\AndroidManifest.xml
+		INJECTED from J:\Android-Open-SDK-master\StreamaxiaOpenSDKDemo\appdemo\src\main\AndroidManifest.xml
+activity#com.karumi.dexter.DexterActivity
+ADDED from [com.karumi:dexter:2.3.1] C:\Users\TEMP\.gradle\caches\transforms-1\files-1.1\dexter-2.3.1.aar\603eb59723265353c27f9b1752646fed\AndroidManifest.xml:27:9-30:56
+	android:launchMode
+		ADDED from [com.karumi:dexter:2.3.1] C:\Users\TEMP\.gradle\caches\transforms-1\files-1.1\dexter-2.3.1.aar\603eb59723265353c27f9b1752646fed\AndroidManifest.xml:29:13-44
+	android:theme
+		ADDED from [com.karumi:dexter:2.3.1] C:\Users\TEMP\.gradle\caches\transforms-1\files-1.1\dexter-2.3.1.aar\603eb59723265353c27f9b1752646fed\AndroidManifest.xml:30:13-53
+	android:name
+		ADDED from [com.karumi:dexter:2.3.1] C:\Users\TEMP\.gradle\caches\transforms-1\files-1.1\dexter-2.3.1.aar\603eb59723265353c27f9b1752646fed\AndroidManifest.xml:28:13-60
+uses-feature#0x00020000
+ADDED from [:streamaxia-opensdk] C:\Users\TEMP\.gradle\caches\transforms-1\files-1.1\streamaxia-opensdk.aar\958cc64d4c5cb97aab2583b3d52e0235\AndroidManifest.xml:18:5-20:35
+	android:glEsVersion
+		ADDED from [:streamaxia-opensdk] C:\Users\TEMP\.gradle\caches\transforms-1\files-1.1\streamaxia-opensdk.aar\958cc64d4c5cb97aab2583b3d52e0235\AndroidManifest.xml:19:9-41
+	android:required
+		ADDED from [:streamaxia-opensdk] C:\Users\TEMP\.gradle\caches\transforms-1\files-1.1\streamaxia-opensdk.aar\958cc64d4c5cb97aab2583b3d52e0235\AndroidManifest.xml:20:9-32

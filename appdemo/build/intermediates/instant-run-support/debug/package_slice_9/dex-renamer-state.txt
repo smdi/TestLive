@@ -1,0 +1,4 @@
+#Sat Apr 21 18:26:02 IST 2018
+base.0=J\:\\Android-Open-SDK-master\\StreamaxiaOpenSDKDemo\\appdemo\\build\\intermediates\\transforms\\dexMerger\\debug\\28
+renamed.0=classes.dex
+file.0=J\:\\Android-Open-SDK-master\\StreamaxiaOpenSDKDemo\\appdemo\\build\\intermediates\\transforms\\dexMerger\\debug\\28\\classes.dex

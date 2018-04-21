@@ -1,0 +1,54 @@
+-injars 'C:\Users\TEMP\.gradle\caches\transforms-1\files-1.1\dexter-2.3.1.aar\603eb59723265353c27f9b1752646fed\jars\classes.jar'(**.class)
+-injars 'C:\Users\TEMP\.gradle\caches\transforms-1\files-1.1\design-23.2.1.aar\b0df7b7213ead241d6af94a809a9dfdd\jars\classes.jar'(**.class)
+-injars 'C:\Users\TEMP\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.1.0.aar\30f425b6d03f5d97931403057f2b9749\jars\classes.jar'(**.class)
+-injars 'C:\Users\TEMP\.gradle\caches\transforms-1\files-1.1\butterknife-8.5.1.aar\293b22fcfb0c78782d0697e38d8f4ee1\jars\classes.jar'(**.class)
+-injars 'C:\Users\TEMP\.gradle\caches\transforms-1\files-1.1\multidex-1.0.2.aar\7688db054d656fdcad7ddf38295364f0\jars\classes.jar'(**.class)
+-injars 'C:\Users\TEMP\.gradle\caches\modules-2\files-2.1\com.jakewharton\butterknife-annotations\8.5.1\bb67dad90bab7cd77a8f7f1b8442b47e3a2326bc\butterknife-annotations-8.5.1.jar'(**.class)
+-injars 'C:\Users\TEMP\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.1.0.aar\47d9a29fadddfa46121da401441ddba1\jars\classes.jar'(**.class)
+-injars 'C:\Users\TEMP\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.1.0.aar\e630d70e8ad0c54db0359d6f88a8ad31\jars\classes.jar'(**.class)
+-injars 'C:\Users\TEMP\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-23.2.1.aar\fbd282ca76549eee18fec704f78dc98d\jars\classes.jar'(**.class)
+-injars 'C:\Users\TEMP\.gradle\caches\transforms-1\files-1.1\support-v4-25.1.0.aar\b165fef5e1d19cd03944734e1a47e53c\jars\classes.jar'(**.class)
+-injars 'C:\Users\TEMP\.gradle\caches\transforms-1\files-1.1\support-fragment-25.1.0.aar\f7455058ce43da604c187f252eee2fc4\jars\classes.jar'(**.class)
+-injars 'C:\Users\TEMP\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.1.0.aar\c0f6d1a0144733736d53189ea7c220b2\jars\classes.jar'(**.class)
+-injars 'C:\Users\TEMP\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.1.0.aar\d1cadeb47ab163eaa7ea239ad67ca041\jars\classes.jar'(**.class)
+-injars 'C:\Users\TEMP\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.1.0.aar\0dbc7057234f6c15461393ddd1168ed5\jars\classes.jar'(**.class)
+-injars 'C:\Users\TEMP\.gradle\caches\transforms-1\files-1.1\support-compat-25.1.0.aar\52466e05c36af36478739b1ea9a77361\jars\classes.jar'(**.class)
+-injars 'C:\Users\Imran\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\25.1.0\support-annotations-25.1.0.jar'(**.class)
+-injars 'C:\Users\TEMP\.gradle\caches\transforms-1\files-1.1\streamaxia-opensdk.aar\958cc64d4c5cb97aab2583b3d52e0235\jars\classes.jar'(**.class)
+-injars 'J:\Android-Open-SDK-master\StreamaxiaOpenSDKDemo\appdemo\build\intermediates\classes\debug'(**.class)
+-outjars 'J:\Android-Open-SDK-master\StreamaxiaOpenSDKDemo\appdemo\build\intermediates\multi-dex\debug\componentClasses.jar'
+
+-libraryjars 'C:\Users\Imran\AppData\Local\Android\Sdk\build-tools\26.0.2\lib\shrinkedAndroid.jar'
+
+-forceprocessing
+-dontoptimize
+-dontobfuscate
+-dontusemixedcaseclassnames
+-dontpreverify
+-dontnote **
+-dontwarn **
+-printconfiguration 'J:\Android-Open-SDK-master\StreamaxiaOpenSDKDemo\appdemo\build\intermediates\multi-dex\debug\components.flags'
+
+
+-keep public class * extends android.app.Instrumentation {
+    <init>();
+}
+
+-keep public class * extends android.app.Application {
+    <init>();
+    void attachBaseContext(android.content.Context);
+}
+
+-keep public class * extends android.app.backup.BackupAgent {
+    <init>();
+}
+
+-keep public class * extends java.lang.annotation.Annotation {
+    <fields>;
+    <methods>;
+}
+
+-keep class com.android.tools.ir.** {
+    <fields>;
+    <methods>;
+}
